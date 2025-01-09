@@ -1,13 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan  9 11:07:46 2025
+Script: Assignment_01.py
 
-@author: ashleylau
+author: Ashley Lau
 
-Jan 09, 2025 
-
-Assignment 1 
+Date:Jan 09, 2025 
 """
 
 (6 *2 +5)*50 + 1749 +25 - 2003
